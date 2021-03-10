@@ -20,20 +20,20 @@ php artisan serve
 
 **Login page** 
 
-![Alt text](/assets/screen-capture/login-page.png)
+![Alt text](public/assets/screen-capture/login-page.png)
 
 **Login page - wrong password**
 
-![Alt text](/assets/screen-capture/login-error.png)
+![Alt text](public/assets/screen-capture/login-error.png)
 
 **Dashboard Default**
 
-![Alt text](/assets/screen-capture/dashboard-default.png)
+![Alt text](public/assets/screen-capture/dashboard-default.png)
 
 **Move File Alert**
 
-![Alt text](/assets/screen-capture/dashboard-success.png)
+![Alt text](public/assets/screen-capture/dashboard-success.png)
 
 **Open filter options**
 
-![Alt text](/assets/screen-capture/dashboard-filter.png)
+![Alt text](public/assets/screen-capture/dashboard-filter.png)
