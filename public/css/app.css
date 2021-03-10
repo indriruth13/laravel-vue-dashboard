@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Nunito);
-
 .text-white {
-  color:  white;
+  color: white;
 }
 
 .w-full {
@@ -9,10 +8,13 @@
 }
 
 h1 {
-  font-family: 'Airbnb Cereal Black';
+  font-family: "Airbnb Cereal Black";
 }
 
-h4, b {
-  font-family: 'Airbnb Cereal Book';
+h4,
+b {
+  font-family: "Airbnb Cereal Book";
   font-weight: 900;
 }
+
+
